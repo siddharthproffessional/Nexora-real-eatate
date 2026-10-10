@@ -1,0 +1,5 @@
+.next
+node_modules
+.data
+supabase/seed.sql
+package-lock.json
